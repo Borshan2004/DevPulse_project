@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< 
 # DevPulse
 
 **Internal Tech Issue & Feature Tracker** — A collaborative platform for software teams to report bugs, suggest features, and coordinate resolutions.
@@ -184,5 +184,5 @@ Server runs at `http://localhost:3000`
 
 
 =======
-# DevPulse-project
->>>>>>> 6c202d39caa89154b5a289c89a481bb55a36f9e8
+
+>>>>>>> 
