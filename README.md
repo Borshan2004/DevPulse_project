@@ -6,7 +6,7 @@
 
 
 **Live URL:** [devpulse-api-ruby.vercel.app](devpulse-api-ruby.vercel.app)
-**GitHub:** [https://github.com/yourusername/devpulse](https://github.com/yourusername/devpulse)
+**GitHub:** [https://github.com/Borshan2004/DevPulse_project](https://github.com/Borshan2004/DevPulse_project)
 
 
 
