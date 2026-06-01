@@ -51,7 +51,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/devpulse.git
+git clone https://github.com/Borshan2004/DevPulse_project.git
 cd devpulse
 ```
 
